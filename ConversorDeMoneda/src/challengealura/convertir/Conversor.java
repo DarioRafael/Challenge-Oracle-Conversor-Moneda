@@ -2,6 +2,7 @@ package challengealura.convertir;
 
 import javax.swing.JOptionPane;
 
+//Clase padre
 public class Conversor {
 
     protected int opcion = JOptionPane.YES_OPTION;
