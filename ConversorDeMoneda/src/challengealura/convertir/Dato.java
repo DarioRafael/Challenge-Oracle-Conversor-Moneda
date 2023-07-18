@@ -5,7 +5,6 @@ import javax.swing.JOptionPane;
 
 public class Dato extends Conversor implements Unidad {
 
-
     public void transformar(String convertir, double valor) {
         DecimalFormat decimalFormat = new DecimalFormat("#.00");
 
